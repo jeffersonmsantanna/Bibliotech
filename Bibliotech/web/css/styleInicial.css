@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 de jun de 2021, 16:29:53
+    Author     : Jefferson
+*/
+
+body{
+    font-family: Arial, Helvetica, serif sans;
+    color: #696969;
+}
+
+.Botao1{
+    
+    text-decoration: none;
+    background-color: #66bbff;
+    padding: 5px 10px 5px 10px;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    width: 15%;
+    position: absolute;
+    text-align: center;
+    
+}
+
+.divInicial{
+    
+    top: 50%;
+    left: 50%;
+    
+}
