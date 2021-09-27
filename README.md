@@ -25,7 +25,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  O propósito desta aplicação Web é melhorar o processo de empréstimos dos livros da biblioteca. Com isso, facilitar a execução dos processos e automatizá-los para uma prestação de serviço mais ágil. 
+  O propósito desta aplicação Web é simular o processo de empréstimos dos livros de uma biblioteca. Fora utilizado o IDE Netbeans para realização do projeto e o SGBD para banco de dados fora utilizado o postgreSQL. O projeto fora criado de acordo com o padrão MVC e Orientado a Objetos.  
 </p>
 
 
